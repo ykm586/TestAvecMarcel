@@ -11,6 +11,7 @@ const App = () => {
         <Text>Le Plombier</Text>
         <Text>Le Plombier uno</Text>
         <Text>j ajoute la nouvelle branche test git branch ok ok</Text>
+        <Text>ajout de one 2</Text>
         </View>
     );
 }
