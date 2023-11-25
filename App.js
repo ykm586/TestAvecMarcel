@@ -10,7 +10,7 @@ const App = () => {
 	    <Text>Yvana plombier 2</Text>
         <Text>Le Plombier</Text>
         <Text>Le Plombier uno</Text>
-        <Text>j ajoute la nouvelle branche test</Text>
+        <Text>j ajoute la nouvelle branche test git branch</Text>
         </View>
     );
 }
