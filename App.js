@@ -7,6 +7,7 @@ const App = () => {
             <Text>Yves</Text>
 	    <Text>Marcel</Text>
 	    <Text>Yvana</Text>
+	    <Text>Yvana plombier 2</Text>
         <Text>Le Plombier</Text>
         <Text>Le Plombier uno</Text>
         </View>
