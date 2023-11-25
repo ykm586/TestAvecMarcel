@@ -10,7 +10,7 @@ const App = () => {
 	    <Text>Yvana plombier 2</Text>
         <Text>Le Plombier</Text>
         <Text>Le Plombier uno</Text>
-        <Text>j ajoute la nouvelle branche</Text>
+        <Text>j ajoute la nouvelle branche test</Text>
         </View>
     );
 }
